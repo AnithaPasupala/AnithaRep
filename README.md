@@ -1,3 +1,3 @@
 # AnithaRep
 
-first samplke repository
+first sample repository
