@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+This is my sample text file
+>>>>>>> branch 'master' of https://github.com/AnithaPasupala/AnithaRep.git
